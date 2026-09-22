@@ -38,6 +38,29 @@ The objective of this project was to build an end-to-end analytical solution tha
 
 ---
 
+
+## 📊 Dashboard Preview
+
+### 1. Executive Overview
+
+![Executive Overview](./screenshots/01-executive-overview.jpg)
+
+### 2. Customer Analysis
+
+![Customer Analysis](./screenshots/02-customer-analysis.jpg)
+
+### 3. Transaction Analysis
+
+![Transaction Analysis](./screenshots/03-transaction-analysis.jpg)
+
+### 4. Loans & Payments
+
+![Loans & Payments](./screenshots/04-loans-payments.jpg)
+
+### 5. Credit & Support
+
+![Credit & Support](./screenshots/05-credit-support.jpg)
+
 # 🎯 Business Objectives
 
 The project focuses on five major analytical areas:
