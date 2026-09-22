@@ -25,6 +25,19 @@ The objective of this project was to build an end-to-end analytical solution tha
 
 ---
 
+## 📂 Project Files
+
+| Component | Description |
+|---|---|
+| 🐍 [Python EDA](./python/Banking_Transactions.ipynb) | Data cleaning, exploratory data analysis and analytical exploration |
+| 🗄️ [SQL Analysis](./sql/) | Database setup, data-quality checks and business analysis |
+| 📊 [Power BI Dashboard](./powerbi/banking_transactions.pbix) | Interactive Power BI dashboard |
+| 🖼️ [Dashboard Screenshots](./screenshots/) | Power BI dashboard page previews |
+| 📄 [Power BI Professional Report](./documentation/Banking_Transactions_PowerBI_Professional_Report.pdf) | Detailed Power BI project report |
+| 📑 [Professional Case Study](./documentation/Banking_Transactions_Professional_Case_Study.pdf) | End-to-end banking analytics case study |
+
+---
+
 # 🎯 Business Objectives
 
 The project focuses on five major analytical areas:
